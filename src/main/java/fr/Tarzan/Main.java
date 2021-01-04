@@ -8,11 +8,11 @@ public class Main extends PluginBase {
     @Override
     public void onEnable() {
         this.getServer().getPluginManager().registerEvents(new PlayerBed(), this);
-        this.getLogger().info("Plugin Enable");
+        this.getLogger().info("§6OnePlayerSleep by §aMrRazamataz §6has been §aenabled!");
     }
 
     @Override
     public void onDisable() {
-        this.getLogger().info("Plugin Disable");
+        this.getLogger().info("§6OnePlayerSleep by §aMrRazamataz §6has been §cdisabled!");
     }
 }

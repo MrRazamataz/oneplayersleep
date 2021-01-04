@@ -1,6 +1,5 @@
-# DayifOnePlayerEnterinBed
- - if there is a lot of play in your server 
-this plugin is used to let a player get into bed to update **directly**
+# OnePlayerSleep
+ - Will skip the day when a player goes in the bed at night.
+ - 2.0 is a rewrited version
 # Credit
- - MrRazamataz edited this.
- - ORGINAL CREATOR: Dalker(Tarzan) XD
+ - MrRazamataz
