@@ -21,7 +21,7 @@ public class PlayerBed implements Listener {
         level.setRaining(false);
         level.setThundering(false);
         player.setSpawn(player.getLocation());
-        player.stopSleep()
+        player.stopSleep();
         player.sendMessage("§aRespawn point set!");
         player.getServer().broadcastMessage("[§6OnePlayerSleep§r]§6 It's §6Daytime!");
 
