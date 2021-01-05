@@ -1,4 +1,4 @@
-package fr.Tarzan.event;
+package raza.MrRazamataz.event;
 
 import cn.nukkit.Player;
 import cn.nukkit.Server;

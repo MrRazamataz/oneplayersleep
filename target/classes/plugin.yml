@@ -1,6 +1,6 @@
 
 name: RazaOnePlayerSleep
-main: fr.Tarzan.Main
+main: raza.MrRazamataz.Main
 version: "1.0.0"
 api: ["1.0.8"]
 author: MrRazamataz

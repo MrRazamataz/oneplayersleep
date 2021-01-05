@@ -1,7 +1,7 @@
-package fr.Tarzan;
+package raza.MrRazamataz;
 
 import cn.nukkit.plugin.PluginBase;
-import fr.Tarzan.event.PlayerBed;
+import raza.MrRazamataz.event.PlayerBed;
 
 public class Main extends PluginBase {
 
