@@ -1,6 +1,2 @@
 # OnePlayerSleep
- - Will skip the day when a player goes in the bed at night.
- - 2.0 is a rewrited version
- - Classed changed
-# Credit
- - MrRazamataz
+ - Allows one player to skip the night for other players.
